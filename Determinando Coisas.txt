@@ -1,0 +1,116 @@
+Definindo Página Learning 
+
+APRENDENDO
+
+SISTEMA SAP
+TYPESCRIPT
+REACT
+GITHUB
+MYSQL
+.................
+PRETENDO APRENDER
+
+ANGULAR
+VUE
+METODOLOGIAS ÁGEIS
+PADRÃO MVC  
+SCRUM
+JIRA
+WORKBENCH
+FIREZILA
+BITBUCKET
+JEST/Vitest/MOCHA
+CYPRESS
+POSTGREE 
+.................
+O QUE EU Sei 
+HMTL
+JAVASCRIPT
+CSS
+Lógica de programação
+Noção Básica de banco de dados - MYSQL, SQLITE
+Diagrama de atividades
+Modelagem de sistema
+REACT
+REACT NATIVE
+TYPESCRIPT
+JAVA
+HIBERNATE
+JSF,JSP
+Básico de arduino e IOT
+-------------------------------
+Definindo Hobbies
+
+Jogos Livros Series Treino
+
+Jogos Favoritos
+    - The Long Dark
+    - State of Decay
+    - GTA IV,V e SA
+    - Assassins Creed até o ROGUE
+    - Red Dead Redemption
+    - Dead Island
+    - The Witcher
+    - Skyrim
+    - League of Legends
+
+Livros
+    - Eles querem entrar - Marcos Silva (LENDO NO MOMENTO)
+    - O Galinheiro - Mauricio Lopes
+    - Quarto 502 - Sardini
+    - As vozes sombria da IRENA - Sardini
+    - O Mistério da casa do lado - Diego Casiolato
+    - O necrotério - Márcio Pacheco
+    - 14 hábitos de desenvolvedores altemente produtivos - Zeno Rocha
+    - Lógica de Programação e Algoritmos com Javascript -  Edécio Fernando Iepsen
+
+ Series
+     - Resident Alien - (No momento)
+     - Dexter - (No momento)
+     - Breaking Bad
+     - South Park
+     - Prison Break
+     - Como vender drogas online
+     - The Simpsons
+     - Safe
+     - Monk - Um detetive diferente
+     - The big bang theory
+     - Dr House
+
+Treinos
+    Treino A
+          Alongamento
+          Supino inclinado com barra 4x8
+          Crossover 4x8
+          Supino reto com halter 4x8  
+          Peck deck BI-SET COM peck deck cruxifico 4x15
+          Tríceps francês 4x8
+          Tríceps supinado BI-SET COM Tríceps Corda 4x8
+          Tríceps testa 3x15
+    Treino B
+          Alongamento
+          Puxador frente BI-SET COM Puxador supinado 3x12 e 3xfalha
+          Remada curvada BI-SET COM Remada aberta pegada neutra 4x8 e 4x10
+          Peck Deck invertido 4x15
+          Rosca 21 3x12
+          Rosca no crossover BI-SET COM Rosca invertida 4x10 e 4xfalha
+          Rosca scott 4x8
+    Treino C
+          Alongamento
+          Remada alta 3x12+8+6
+          Encolhimento com barra por trás 4x12
+          Elevação frontal BI-SET COM desenvolvedores halteres 4x12
+          Elevação lateral máquina 4x15,12,10,8
+          Elevação posterior curvado 3x15
+          Abdominal Hiperextensão lateral 3x20
+    Treino D
+          Alongamento
+          Leg press 45º 1x50
+          Agachamento smith 4x12
+          Leg press 45º 4x8
+          Passada 4x20
+          Extensor pernas 3x15
+          Mesa flexora 4x15
+          Flexão de pernas máquina vertical 3x12
+          Panturilha sentado 4x12,10,8
+          
