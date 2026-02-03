@@ -1,0 +1,44 @@
+.footer {
+  height: 60px;
+  background: #071c3f;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 24px;
+  font-size: 14px;
+}
+
+/* container dos ícones */
+.social {
+  display: flex;
+  gap: 18px; /* espaçamento entre ícones */
+}
+
+/* botão do ícone */
+.social a {
+  width: 38px;
+  height: 38px;
+  background: white;
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* imagem do ícone */
+.social img {
+  width: 22px;
+  height: 22px;
+}
+
+/* hover */
+.social a:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+}

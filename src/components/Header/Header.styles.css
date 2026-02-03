@@ -1,0 +1,17 @@
+.header {
+  height: 70px;
+  background: linear-gradient(90deg, #2b2fd9, #1a1fa3);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  border: 2px solid #26069A;
+}
+
+.header nav a {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
